@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 34,
-    "description": "Camera retexture\n§7By: §3§nlinkarvane"
+    "pack_format": 17,
+    "description": "Camera retexture\n§7By: §3§nlinkarvane",
+    "supported_formats": [15, 34]
   }
 }
